@@ -1,5 +1,3 @@
-### 回归Bug（IE8下一直加载不出数据）
-![重写Array数组的filter方法](https://img-blog.csdn.net/20180411173316438?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2xpZHlzdW4=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
 ### W3C API（只兼容IE9及以上）
 ![这里写图片描述](https://img-blog.csdn.net/20180411173524896?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2xpZHlzdW4=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
 ### 重写Array数组的filter方法
